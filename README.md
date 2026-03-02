@@ -1,10 +1,9 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7317cf&height=300&section=header&text=Hi,%20I'm%20Befikir!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
+<!-- Header Text (No Banner - Closer Spacing) -->
+<h1 align="center" style="margin-bottom: 5px;">
+  Hi, I am Befikir
+</h1>
 
-<!-- Typing Effect -->
-<h3 align="center">
+<h3 align="center" style="margin-top: 0px; margin-bottom: 15px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;3D+Web+and+Linux+Enthusiast" alt="Typing SVG" />
 </h3>
 
@@ -103,7 +102,9 @@
 ## 📫 **Connect With Me**
 
 <div align="center">
- 
+  <a href="https://github.com/squidward404" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://t.me/A_t_o_m_ic" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
