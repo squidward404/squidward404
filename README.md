@@ -109,9 +109,7 @@
 ## 📫 **Connect With Me**
 
 <div align="center">
-  <a href="https://github.com/squidward404" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  
   <a href="https://t.me/A_t_o_m_ic" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
