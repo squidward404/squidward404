@@ -47,9 +47,6 @@
         <a href="https://aastu-archive.web.app">
           <img src="https://img.shields.io/badge/Live-Demo-7317cf?style=for-the-badge" />
         </a>
-        <a href="https://github.com/squidward404">
-          <img src="https://img.shields.io/badge/GitHub-Repo-ffffff?style=for-the-badge&logo=github" />
-        </a>
       </td>
       <td>
         <h3>🏫 AASTU-SOCIAL</h3>
@@ -59,9 +56,6 @@
         <br /><br />
         <a href="https://aastu-social.web.app">
           <img src="https://img.shields.io/badge/Live-Demo-7317cf?style=for-the-badge" />
-        </a>
-        <a href="https://github.com/squidward404">
-          <img src="https://img.shields.io/badge/GitHub-Repo-ffffff?style=for-the-badge&logo=github" />
         </a>
       </td>
     </tr>
@@ -78,7 +72,7 @@
       </td>
       <td>
         <h3>🪐 3D Portfolio</h3>
-        <p>Interactive portfolio with Three.js Saturn</p>
+        <p>Interactive portfolio with Three.js</p>
         <img src="https://img.shields.io/badge/Three.js-r128-000000?style=for-the-badge&logo=three.js&logoColor=white" />
         <img src="https://img.shields.io/badge/GSAP-3.12-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
         <br /><br />
@@ -109,7 +103,7 @@
 ## 📫 **Connect With Me**
 
 <div align="center">
-  
+ 
   <a href="https://t.me/A_t_o_m_ic" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -123,5 +117,5 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7317cf&height=100&section=footer" />
-  <p><b>Thanks for visiting! 🚀</b></p>
+  <p><b>Thanks for visiting! 😊</b></p>
 </div>
