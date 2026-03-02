@@ -1,6 +1,6 @@
 <!-- Header Text (No Banner - Closer Spacing) -->
 <h1 align="center" style="margin-bottom: 5px;">
-  Hi, I am Befikir
+  Hi 😊, I am Befikir.
 </h1>
 
 <h3 align="center" style="margin-top: 0px; margin-bottom: 15px;">
@@ -102,9 +102,7 @@
 ## 📫 **Connect With Me**
 
 <div align="center">
-  <a href="https://github.com/squidward404" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+ 
   <a href="https://t.me/A_t_o_m_ic" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
