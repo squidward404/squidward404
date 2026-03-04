@@ -1,6 +1,6 @@
 <!-- Header Text (No Banner - Closer Spacing) -->
 <h1 align="center" style="margin-bottom: 5px;">
-  Hi 😊, I am Befikir.
+  Hi ✌🏽, I am Befikir.
 </h1>
 
 <h3 align="center" style="margin-top: 0px; margin-bottom: 15px;">
