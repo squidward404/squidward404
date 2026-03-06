@@ -92,8 +92,8 @@
 | **Addis Ababa Science and Technology University** |
 |:-------------------------------------------------:|
 | **B.Sc. Software Engineering** |
-| 📅 2024 - 2029 (Expected) |
-| ⭐ GPA: 3.9/4.0 |
+| 📅 2024 - 2028 (Expected) |
+
 
 </div>
 
