@@ -75,7 +75,7 @@
         <img src="https://img.shields.io/badge/Three.js-r128-000000?style=for-the-badge&logo=three.js&logoColor=white" />
         <img src="https://img.shields.io/badge/GSAP-3.12-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
         <br /><br />
-        <a href="https://squidwardcodes.web.app/">
+        <a href="https://squidwardcodes.tech/">
           <img src="https://img.shields.io/badge/Live-Demo-7317cf?style=for-the-badge" />
         </a>
       </td>
