@@ -3,16 +3,15 @@
   Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" width="35" alt="Waving Hand" style="vertical-align: middle;" />, I am Befikir.
 </h1>
 
-<div align="center" style="position: relative; margin-bottom: 10px;">
+<div style="position: relative; margin-bottom: 10px; max-width: 900px; margin-left: auto; margin-right: auto;">
   <img 
     src="assets/two.png" 
     alt="Creation of Adam" 
-    width="180" 
+    width="150" 
     style="
-      position: absolute;
-      left: 50%;
-      transform: translateX(-120%);
-      top: -10px;
+      float: left;
+      margin-right: 20px;
+      margin-top: 5px;
       border-radius: 8px;
       opacity: 0.9;
       filter: drop-shadow(0 4px 8px rgba(115, 23, 207, 0.4));
@@ -21,6 +20,7 @@
   <h3 align="center" style="margin-top: 0px; margin-bottom: 15px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;3D+Web+and+Linux+Enthusiast" alt="Typing SVG" />
   </h3>
+  <div style="clear: both;"></div>
 </div>
 
 ---
