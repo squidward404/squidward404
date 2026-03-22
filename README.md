@@ -3,45 +3,23 @@
   Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" width="35" alt="Waving Hand" style="vertical-align: middle;" />, I am Befikir.
 </h1>
 
-<div align="center" style="position: relative; height: 340px; margin-bottom: 20px; max-width: 900px; margin-left: auto; margin-right: auto;">
-  <!-- Adam (Left Side - Lower Position, reaching right) -->
-  <img 
-    src="assets/three.png" 
-    alt="Adam" 
-    width="310" 
-    style="
-      position: absolute;
-      left: 0px;
-      bottom: 0px;
-      border-radius: 8px;
-      opacity: 0.97;
-      filter: drop-shadow(2px 2px 8px rgba(0, 0, 0, 0.25));
-      z-index: 1;
-      transform: rotate(-2deg);
-    " 
-  />
 
-  <!-- God/Creator (Right Side - Higher Position, reaching left) -->
-  <img 
-    src="assets/two.png" 
-    alt="Creation of Adam - God" 
-    width="270" 
-    style="
-      position: absolute;
-      right: 0px;
-      top: 0px;
-      border-radius: 8px;
-      opacity: 0.96;
-      filter: drop-shadow(2px 2px 8px rgba(0, 0, 0, 0.25));
-      z-index: 2;
-      transform: rotate(2deg);
-    " 
-  />
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="320">
+        <img src="assets/three.png" alt="Adam" width="310" style="border-radius: 8px; opacity: 0.97; filter: drop-shadow(2px 2px 8px rgba(0,0,0,0.25));" />
+      </td>
+      <td align="center" width="400">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Software+Engineering;3D+Web+%26+Linux" alt="Typing SVG" />
+      </td>
+      <td align="center" width="280">
+        <img src="assets/two.png" alt="God" width="270" style="border-radius: 8px; opacity: 0.96; filter: drop-shadow(2px 2px 8px rgba(0,0,0,0.25));" />
+      </td>
+    </tr>
+  </table>
 
-  <!-- Centered Text (Between the hands) -->
-  <div style="position: absolute; left: 50%; top: 54%; transform: translate(-50%, -50%); z-index: 3; width: 400px; background: rgba(255,255,255,0.7); border-radius: 12px; padding: 8px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Software+Engineering;3D+Web+%26+Linux" alt="Typing SVG" />
-  </div>
 </div>
 
 ---
