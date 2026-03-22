@@ -5,7 +5,7 @@
 
 <div align="center" style="position: relative; margin-bottom: 10px;">
   <img 
-    src="assets/two.jpg" 
+    src="assets/two.png" 
     alt="Creation of Adam" 
     width="180" 
     style="
