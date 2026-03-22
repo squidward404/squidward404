@@ -7,10 +7,10 @@
   <img 
     src="assets/two.png" 
     alt="Creation of Adam" 
-    width="150" 
+    width="220" 
     style="
-      float: left;
-      margin-right: 20px;
+      float: right;
+      margin-left: 20px;
       margin-top: 5px;
       border-radius: 8px;
       opacity: 0.9;
