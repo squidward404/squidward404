@@ -3,19 +3,25 @@
   Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" width="35" alt="Waving Hand" style="vertical-align: middle;" />, I am Befikir.
 </h1>
 
-<div align="center" style="margin-bottom: 15px;">
+<div align="center" style="margin-bottom: 15px; position: relative; height: 180px;">
   <img 
     src="assets/two.png" 
     alt="Creation of Adam" 
     width="220" 
     style="
+      position: absolute;
+      left: 55%;
+      transform: translateX(-50%);
+      top: 10px;
       border-radius: 8px;
       opacity: 0.9;
       filter: drop-shadow(0 4px 8px rgba(115, 23, 207, 0.4));
-      margin-bottom: 10px;
+      z-index: 2;
     " 
   />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;3D+Web+and+Linux+Enthusiast" alt="Typing SVG" />
+  <div style="margin-top: 50px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;3D+Web+and+Linux+Enthusiast" alt="Typing SVG" />
+  </div>
 </div>
 
 ---
