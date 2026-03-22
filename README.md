@@ -4,22 +4,14 @@
 </h1>
 
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="320">
-        <img src="assets/three.png" alt="Adam" width="310" style="border-radius: 8px; opacity: 0.97; filter: drop-shadow(2px 2px 8px rgba(0,0,0,0.25));" />
-      </td>
-      <td align="center" width="400">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Software+Engineering;3D+Web+%26+Linux" alt="Typing SVG" />
-      </td>
-      <td align="center" width="280">
-        <img src="assets/two.png" alt="God" width="270" style="border-radius: 8px; opacity: 0.96; filter: drop-shadow(2px 2px 8px rgba(0,0,0,0.25));" />
-      </td>
-    </tr>
-  </table>
 
+
+<div align="center">
+  <img src="assets/two.png" alt="God" width="270" style="border-radius: 8px; opacity: 0.96; filter: drop-shadow(2px 2px 8px rgba(0,0,0,0.25)); margin-bottom: 12px;" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Software+Engineering;3D+Web+%26+Linux" alt="Typing SVG" style="margin-bottom: 12px;" />
+  <br />
+  <img src="assets/three.png" alt="Adam" width="310" style="border-radius: 8px; opacity: 0.97; filter: drop-shadow(2px 2px 8px rgba(0,0,0,0.25)); margin-top: 12px; margin-left: -110px;" />
 </div>
 
 ---
