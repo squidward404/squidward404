@@ -9,9 +9,9 @@
     alt="Creation of Adam" 
     width="220" 
     style="
-      float: right;
-      margin-left: 20px;
-      margin-top: 5px;
+      position: absolute;
+      right: 0;
+      top: 0;
       border-radius: 8px;
       opacity: 0.9;
       filter: drop-shadow(0 4px 8px rgba(115, 23, 207, 0.4));
