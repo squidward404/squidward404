@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="assets/pic.png" alt="Creation of Adam Combined" width="600" style="border-radius: 12px; opacity: 0.98; filter: drop-shadow(2px 2px 8px rgba(0,0,0,0.25)); margin-top: -48px; margin-bottom: 0px;" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Software+Engineering;3D+Web+%26+Linux" alt="Typing SVG" style="margin-bottom: 12px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;3D+Web+%26+Linux+Enthusiast" alt="Typing SVG" style="margin-bottom: 12px;" />
 </div>
 
 ---
