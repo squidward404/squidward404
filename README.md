@@ -3,42 +3,42 @@
   Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" width="35" alt="Waving Hand" style="vertical-align: middle;" />, I am Befikir.
 </h1>
 
-<div align="center" style="position: relative; height: 280px; margin-bottom: 20px;">
-  <!-- Adam (Left Side) -->
+<div align="center" style="position: relative; height: 320px; margin-bottom: 20px; max-width: 900px; margin-left: auto; margin-right: auto;">
+  <!-- Adam (Left Side - Lower Position) -->
   <img 
     src="assets/three.png" 
     alt="Adam" 
-    width="280" 
+    width="300" 
     style="
       position: absolute;
-      left: 3%;
-      bottom: 10px;
+      left: 20px;
+      bottom: 40px;
       border-radius: 8px;
       opacity: 0.95;
-      filter: drop-shadow(0 4px 8px rgba(115, 23, 207, 0.3));
+      filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3));
       z-index: 1;
     " 
   />
   
-  <!-- God/Creator (Right Side) -->
+  <!-- God/Creator (Right Side - Upper Position) -->
   <img 
     src="assets/two.png" 
     alt="Creation of Adam - God" 
-    width="240" 
+    width="260" 
     style="
       position: absolute;
-      right: 3%;
-      top: 5px;
+      right: 20px;
+      top: 20px;
       border-radius: 8px;
       opacity: 0.9;
-      filter: drop-shadow(0 4px 8px rgba(115, 23, 207, 0.4));
+      filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3));
       z-index: 2;
     " 
   />
   
-  <!-- Typing Text (Center) -->
-  <div style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 3;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=350&lines=Full+Stack+Developer;Software+Engineering;3D+Web+%26+Linux" alt="Typing SVG" />
+  <!-- Typing Text (Center - Between the figures) -->
+  <div style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 3; width: 400px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Software+Engineering;3D+Web+%26+Linux" alt="Typing SVG" />
   </div>
 </div>
 
