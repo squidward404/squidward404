@@ -1,46 +1,51 @@
 <!-- Header Text (No Banner - Closer Spacing) -->
 <h1 align="center" style="margin-bottom: 5px;">
-  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" width="35" alt="Waving Hand" style="vertical-align: middle; animation: shake 0.5s ease-in-out infinite;" />, I am Befikir.
+  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" width="35" alt="Waving Hand" style="vertical-align: middle;" />, I am Befikir.
 </h1>
 
 <h3 align="center" style="margin-top: 0px; margin-bottom: 15px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;3D+Web+and+Linux+Enthusiast" alt="Typing SVG" />
 </h3>
 
-<!-- ✨ Animated GIF -->
-<div align="center">
-  <img 
-    src="assets/one.gif" 
-    alt="Animated" 
-    width="400" 
-    style="
-      border-radius: 16px;
-      box-shadow: 0 10px 30px rgba(115, 23, 207, 0.3);
-      margin: 15px 0;
-      border: 2px solid #7317cf;
-    " 
-  />
-</div>
-
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack & Preview**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br /><sub>JavaScript</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br /><sub>Python</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br /><sub>React</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br /><sub>Node.js</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" /><br /><sub>Three.js</sub></td>
-    </tr>
-    <tr>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br /><sub>Firebase</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br /><sub>TypeScript</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br /><sub>C++</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /><br /><sub>Bash</sub></td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br /><sub>Linux</sub></td>
+      <!-- Tech Stack Column -->
+      <td valign="top" width="50%">
+        <table>
+          <tr>
+            <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /><br /><sub>JS</sub></td>
+            <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /><br /><sub>Py</sub></td>
+            <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /><br /><sub>React</sub></td>
+            <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" /><br /><sub>Node</sub></td>
+            <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="30" /><br /><sub>Three</sub></td>
+          </tr>
+          <tr>
+            <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" /><br /><sub>Firebase</sub></td>
+            <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" /><br /><sub>TS</sub></td>
+            <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" /><br /><sub>C++</sub></td>
+            <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" /><br /><sub>Bash</sub></td>
+            <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" /><br /><sub>Linux</sub></td>
+          </tr>
+        </table>
+      </td>
+      <!-- GIF Column -->
+      <td valign="middle" width="50%">
+        <img 
+          src="assets/one.gif" 
+          alt="Animated" 
+          width="250" 
+          style="
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(115, 23, 207, 0.3);
+            border: 2px solid #7317cf;
+          " 
+        />
+      </td>
     </tr>
   </table>
 </div>
