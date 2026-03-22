@@ -12,35 +12,37 @@
 ## 🛠️ **Tech Stack & Preview**
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: middle; margin-right: 30px;">
-    <table>
-      <tr>
-        <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br /><sub>JavaScript</sub></td>
-        <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br /><sub>Python</sub></td>
-        <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br /><sub>React</sub></td>
-        <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br /><sub>Node.js</sub></td>
-        <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" /><br /><sub>Three.js</sub></td>
-      </tr>
-      <tr>
-        <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br /><sub>Firebase</sub></td>
-        <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br /><sub>TypeScript</sub></td>
-        <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br /><sub>C++</sub></td>
-        <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /><br /><sub>Bash</sub></td>
-        <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br /><sub>Linux</sub></td>
-      </tr>
-    </table>
-  </div>
-  <div style="display: inline-block; vertical-align: middle;">
-    <img 
-      src="assets/one.gif" 
-      alt="Animated" 
-      width="300" 
-      style="
-        border-radius: 12px;
-        box-shadow: 0 8px 20px rgba(115, 23, 207, 0.3);
-        border: 2px solid #7317cf;
-      " 
-    />
+  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: nowrap;">
+    <div>
+      <table>
+        <tr>
+          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br /><sub>JavaScript</sub></td>
+          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br /><sub>Python</sub></td>
+          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br /><sub>React</sub></td>
+          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br /><sub>Node.js</sub></td>
+          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" /><br /><sub>Three.js</sub></td>
+        </tr>
+        <tr>
+          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br /><sub>Firebase</sub></td>
+          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br /><sub>TypeScript</sub></td>
+          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br /><sub>C++</sub></td>
+          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /><br /><sub>Bash</sub></td>
+          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br /><sub>Linux</sub></td>
+        </tr>
+      </table>
+    </div>
+    <div>
+      <img 
+        src="assets/one.gif" 
+        alt="Animated" 
+        width="200" 
+        style="
+          border-radius: 12px;
+          box-shadow: 0 8px 20px rgba(115, 23, 207, 0.3);
+          border: 2px solid #7317cf;
+        " 
+      />
+    </div>
   </div>
 </div>
 
