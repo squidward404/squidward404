@@ -1,11 +1,26 @@
 <!-- Header Text (No Banner - Closer Spacing) -->
 <h1 align="center" style="margin-bottom: 5px;">
-  Hi ✌🏽,I am Befikir.
+  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" width="35" alt="Waving Hand" style="vertical-align: middle; animation: shake 0.5s ease-in-out infinite;" />, I am Befikir.
 </h1>
 
 <h3 align="center" style="margin-top: 0px; margin-bottom: 15px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;3D+Web+and+Linux+Enthusiast" alt="Typing SVG" />
 </h3>
+
+<!-- ✨ Animated GIF -->
+<div align="center">
+  <img 
+    src="assets/one.gif" 
+    alt="Animated" 
+    width="400" 
+    style="
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(115, 23, 207, 0.3);
+      margin: 15px 0;
+      border: 2px solid #7317cf;
+    " 
+  />
+</div>
 
 ---
 
