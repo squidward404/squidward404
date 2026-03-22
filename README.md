@@ -10,7 +10,7 @@
     width="180" 
     style="
       position: absolute;
-      left: 50%;
+      left: 30%;
       transform: translateX(-120%);
       top: -10px;
       border-radius: 8px;
