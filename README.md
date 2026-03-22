@@ -10,7 +10,7 @@
     width="220" 
     style="
       position: absolute;
-      right: 0;
+      right: 1;
       top: 0;
       border-radius: 8px;
       opacity: 0.9;
