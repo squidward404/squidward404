@@ -16,7 +16,10 @@
 
 ## > boot_sequence.log
 
-<pre style="margin:0 auto;width:100%;max-width:920px;box-sizing:border-box;white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere;font-size:13px;line-height:1.35;"><code>$ sudo nmap -sV creativity
+<table style="width:100%;table-layout:fixed;">
+  <tr>
+    <td width="60%" valign="top" style="padding:0;">
+      <pre style="margin:0;width:100%;height:100%;min-height:680px;box-sizing:border-box;white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere;"><code>$ sudo nmap -sV creativity
 
 PORT     STATE SERVICE   VERSION
 22/tcp   open  ssh       discipline
@@ -35,11 +38,15 @@ Status: Building useful things at weird hours.
 [log] focus mode: deep work
 [log] soundtrack: Fur Elise
 [end] boot sequence complete.</code></pre>
-
-<p align="center">
-  <img src="assets/sticker.gif" alt="Terminal glitch sticker" style="width:48%;max-width:250px;min-width:150px;height:auto;vertical-align:top;" />
-  <img src="assets/picture.png" alt="Mr Robot text" style="width:48%;max-width:290px;min-width:150px;height:auto;vertical-align:top;" />
-</p>
+    </td>
+    <td width="40%" align="center" valign="top" style="padding:0;">
+      <div style="height:680px;display:flex;flex-direction:column;justify-content:space-between;align-items:center;">
+        <img src="assets/sticker.gif" alt="Terminal glitch sticker" style="width:88%;max-width:250px;height:auto;" />
+        <img src="assets/picture.png" alt="Mr Robot text" style="width:88%;max-width:290px;height:auto;" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
