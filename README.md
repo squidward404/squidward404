@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td width="60%" valign="top" style="padding:0;">
-      <pre style="margin:0;width:100%;height:100%;box-sizing:border-box;"><code>$ sudo nmap -sV creativity
+      <pre style="margin:0;width:100%;height:100%;min-height:680px;box-sizing:border-box;"><code>$ sudo nmap -sV creativity
 
 PORT     STATE SERVICE   VERSION
 22/tcp   open  ssh       discipline
@@ -117,7 +117,7 @@ Status: Building useful things at weird hours.
 
 ## > spotify.now_playing
 
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/user/31hgawktqptlttvxyb2ke3yzyz4e">
     <img src="https://busybox.colabois.fr/myplaying/playing/img?hideGithubLogo" alt="Spotify now playing" />
   </a>
