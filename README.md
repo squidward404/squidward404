@@ -16,10 +16,7 @@
 
 ## > boot_sequence.log
 
-<table style="width:100%;table-layout:fixed;">
-  <tr>
-    <td width="60%" valign="top" style="padding:0;">
-      <pre style="margin:0;width:100%;height:100%;min-height:680px;box-sizing:border-box;white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere;"><code>$ sudo nmap -sV creativity
+<pre style="margin:0 auto;width:100%;max-width:920px;box-sizing:border-box;white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere;font-size:13px;line-height:1.35;"><code>$ sudo nmap -sV creativity
 
 PORT     STATE SERVICE   VERSION
 22/tcp   open  ssh       discipline
@@ -38,15 +35,11 @@ Status: Building useful things at weird hours.
 [log] focus mode: deep work
 [log] soundtrack: Fur Elise
 [end] boot sequence complete.</code></pre>
-    </td>
-    <td width="40%" align="center" valign="top" style="padding:0;">
-      <div style="height:680px;display:flex;flex-direction:column;justify-content:space-between;align-items:center;">
-        <img src="assets/sticker.gif" alt="Terminal glitch sticker" style="width:88%;max-width:250px;height:auto;" />
-        <img src="assets/picture.png" alt="Mr Robot text" style="width:88%;max-width:290px;height:auto;" />
-      </div>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="assets/sticker.gif" alt="Terminal glitch sticker" style="width:48%;max-width:250px;min-width:150px;height:auto;vertical-align:top;" />
+  <img src="assets/picture.png" alt="Mr Robot text" style="width:48%;max-width:290px;min-width:150px;height:auto;vertical-align:top;" />
+</p>
 
 ---
 
@@ -79,49 +72,44 @@ Status: Building useful things at weird hours.
 
 ## > projects.index
 
-<table style="width:100%;table-layout:fixed;">
-  <tr>
-    <td width="50%">
-      <h3>Archive</h3>
-      <p>Community-powered library of books and past exams.</p>
-      <a href="https://aastu-archive.web.app">
-        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="Archive" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>AASTU-SOCIAL</h3>
-      <p>Campus social platform focused on connection and speed.</p>
-      <a href="https://aastu-social.web.app">
-        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="AASTU social" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>WIFI-Crasher</h3>
-      <p>Ethical WiFi security testing toolkit in Python.</p>
-      <a href="https://github.com/squidward404/wifi-crasher">
-        <img src="https://img.shields.io/badge/OPEN_REPO-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0a0a0a" alt="WiFi Crasher" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>3D Portfolio</h3>
-      <p>Immersive web portfolio powered by Three.js and motion.</p>
-      <a href="https://squidwardcodes.tech/">
-        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="3D portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
+<h3>Archive</h3>
+<p>Community-powered library of books and past exams.</p>
+<p>
+  <a href="https://aastu-archive.web.app">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="Archive" style="max-width:100%;height:auto;" />
+  </a>
+</p>
+
+<h3>AASTU-SOCIAL</h3>
+<p>Campus social platform focused on connection and speed.</p>
+<p>
+  <a href="https://aastu-social.web.app">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="AASTU social" style="max-width:100%;height:auto;" />
+  </a>
+</p>
+
+<h3>WIFI-Crasher</h3>
+<p>Ethical WiFi security testing toolkit in Python.</p>
+<p>
+  <a href="https://github.com/squidward404/wifi-crasher">
+    <img src="https://img.shields.io/badge/OPEN_REPO-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0a0a0a" alt="WiFi Crasher" style="max-width:100%;height:auto;" />
+  </a>
+</p>
+
+<h3>3D Portfolio</h3>
+<p>Immersive web portfolio powered by Three.js and motion.</p>
+<p>
+  <a href="https://squidwardcodes.tech/">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="3D portfolio" style="max-width:100%;height:auto;" />
+  </a>
+</p>
 
 ---
 
-## > spotify.now_playing
+## > contribution.snake
 
-<p align="left">
-  <a href="https://open.spotify.com/user/31hgawktqptlttvxyb2ke3yzyz4e">
-    <img src="https://busybox.colabois.fr/myplaying/playing/img?hideGithubLogo" alt="Spotify now playing" style="max-width:100%;height:auto;" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/squidward404/squidward404/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" style="max-width:100%;height:auto;" />
 </p>
 
 ---
