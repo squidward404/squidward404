@@ -72,37 +72,40 @@ Status: Building useful things at weird hours.
 
 ## > projects.index
 
-<h3>Archive</h3>
-<p>Community-powered library of books and past exams.</p>
-<p>
-  <a href="https://aastu-archive.web.app">
-    <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="Archive" style="max-width:100%;height:auto;" />
-  </a>
-</p>
-
-<h3>AASTU-SOCIAL</h3>
-<p>Campus social platform focused on connection and speed.</p>
-<p>
-  <a href="https://aastu-social.web.app">
-    <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="AASTU social" style="max-width:100%;height:auto;" />
-  </a>
-</p>
-
-<h3>WIFI-Crasher</h3>
-<p>Ethical WiFi security testing toolkit in Python.</p>
-<p>
-  <a href="https://github.com/squidward404/wifi-crasher">
-    <img src="https://img.shields.io/badge/OPEN_REPO-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0a0a0a" alt="WiFi Crasher" style="max-width:100%;height:auto;" />
-  </a>
-</p>
-
-<h3>3D Portfolio</h3>
-<p>Immersive web portfolio powered by Three.js and motion.</p>
-<p>
-  <a href="https://squidwardcodes.tech/">
-    <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="3D portfolio" style="max-width:100%;height:auto;" />
-  </a>
-</p>
+<table style="width:100%;table-layout:fixed;">
+  <tr>
+    <td width="50%">
+      <h3>Archive</h3>
+      <p>Community-powered library of books and past exams.</p>
+      <a href="https://aastu-archive.web.app">
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="Archive" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>AASTU-SOCIAL</h3>
+      <p>Campus social platform focused on connection and speed.</p>
+      <a href="https://aastu-social.web.app">
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="AASTU social" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>WIFI-Crasher</h3>
+      <p>Ethical WiFi security testing toolkit in Python.</p>
+      <a href="https://github.com/squidward404/wifi-crasher">
+        <img src="https://img.shields.io/badge/OPEN_REPO-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0a0a0a" alt="WiFi Crasher" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>3D Portfolio</h3>
+      <p>Immersive web portfolio powered by Three.js and motion.</p>
+      <a href="https://squidwardcodes.tech/">
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="3D portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
