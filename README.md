@@ -33,7 +33,7 @@ Status: Building useful things at weird hours.</code></pre>
     <td width="44%" align="center" valign="top">
       <img src="assets/sticker.gif" width="360" alt="Terminal glitch sticker" />
       <br /><br />
-      <img src="assets/pic.png" width="360" alt="Mr Robot text" />
+      <img src="assets/picture.png" width="360" alt="Mr Robot text" />
     </td>
   </tr>
 </table>
