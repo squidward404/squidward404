@@ -112,12 +112,6 @@ Status: Building useful things at weird hours.</code></pre>
   </a>
 </p>
 
-<p align="center">
-  <a href="SPOTIFY_PERSONAL_SETUP.md">
-    <img src="https://img.shields.io/badge/Own%20Live%20Spotify%20Widget-Setup%20Guide-1DB954?style=for-the-badge&logo=spotify&logoColor=000000&labelColor=0a0a0a" alt="Spotify setup guide" />
-  </a>
-</p>
-
 ---
 
 ## > connect --secure
