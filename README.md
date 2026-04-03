@@ -39,12 +39,11 @@ Status: Building useful things at weird hours.
 [log] soundtrack: Fur Elise
 [end] boot sequence complete.</code></pre>
     </td>
-    <td width="40%" align="center" valign="top">
-      <p align="center">
-        <img src="assets/sticker.gif" width="300" alt="Terminal glitch sticker" />
-        <br /><br />
-        <img src="assets/picture.png" width="340" alt="Mr Robot text" />
-      </p>
+    <td width="40%" align="center" valign="top" style="padding:0;">
+      <div style="height:680px;display:flex;flex-direction:column;justify-content:space-between;align-items:center;">
+        <img src="assets/sticker.gif" width="250" alt="Terminal glitch sticker" />
+        <img src="assets/picture.png" width="290" alt="Mr Robot text" />
+      </div>
     </td>
   </tr>
 </table>
