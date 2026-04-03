@@ -18,8 +18,8 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <pre><code>$ sudo nmap -sV creativity
+    <td width="60%" valign="top" style="padding:0;">
+      <pre style="margin:0;width:100%;height:100%;box-sizing:border-box;"><code>$ sudo nmap -sV creativity
 
 PORT     STATE SERVICE   VERSION
 22/tcp   open  ssh       discipline
