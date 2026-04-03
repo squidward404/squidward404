@@ -1,142 +1,137 @@
-<!-- Header Text (No Banner - Closer Spacing) -->
-<h1 align="center" style="margin-bottom: 5px;">
-  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" width="35" alt="Waving Hand" style="vertical-align: middle;" />, I am Befikir.
-</h1>
-
-
-
-
-
-<div align="center">
-  <img src="assets/pic.png" alt="Creation of Adam Combined" width="600" style="border-radius: 12px; opacity: 0.98; filter: drop-shadow(2px 2px 8px rgba(0,0,0,0.25)); margin-top: -48px; margin-bottom: 0px;" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;3D+Web+%26+Linux+Enthusiast" alt="Typing SVG" style="margin-bottom: 12px;" />
-</div>
-
----
-
-## 🛠️ **Tech Stack & Preview**
-
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: nowrap;">
-    <div>
-      <table>
-        <tr>
-          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br /><sub>JavaScript</sub></td>
-          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br /><sub>Python</sub></td>
-          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br /><sub>React</sub></td>
-          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br /><sub>Node.js</sub></td>
-          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" /><br /><sub>Three.js</sub></td>
-        </tr>
-        <tr>
-          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br /><sub>Firebase</sub></td>
-          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br /><sub>TypeScript</sub></td>
-          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br /><sub>C++</sub></td>
-          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /><br /><sub>Bash</sub></td>
-          <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br /><sub>Linux</sub></td>
-        </tr>
-      </table>
-    </div>
-    <div>
-      <img 
-        src="assets/one.gif" 
-        alt="Animated" 
-        width="200" 
-        style="
-          border-radius: 12px;
-          box-shadow: 0 8px 20px rgba(115, 23, 207, 0.3);
-          border: 2px solid #7317cf;
-        " 
-      />
-    </div>
-  </div>
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>📚 Archive</h3>
-        <p>Community-powered library of books and past exams</p>
-        <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-        <br /><br />
-        <a href="https://aastu-archive.web.app">
-          <img src="https://img.shields.io/badge/Live-Demo-7317cf?style=for-the-badge" />
-        </a>
-      </td>
-      <td>
-        <h3>🏫 AASTU-SOCIAL</h3>
-        <p>In-campus social media platform</p>
-        <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <br /><br />
-        <a href="https://aastu-social.web.app">
-          <img src="https://img.shields.io/badge/Live-Demo-7317cf?style=for-the-badge" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>📡 WIFI-Crasher</h3>
-        <p>WiFi security testing suite (Python)</p>
-        <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-Ethical-00FF00?style=for-the-badge" />
-        <br /><br />
-        <a href="https://github.com/squidward404/wifi-crasher">
-          <img src="https://img.shields.io/badge/GitHub-Repo-ffffff?style=for-the-badge&logo=github" />
-        </a>
-      </td>
-      <td>
-        <h3>🪐 3D Portfolio</h3>
-        <p>Interactive portfolio with Three.js</p>
-        <img src="https://img.shields.io/badge/Three.js-r128-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/GSAP-3.12-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-        <br /><br />
-        <a href="https://squidwardcodes.tech/">
-          <img src="https://img.shields.io/badge/Live-Demo-7317cf?style=for-the-badge" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎓 **Education**
-
 <div align="center">
 
-| **Addis Ababa Science and Technology University** |
-|:-------------------------------------------------:|
-| **B.Sc. Software Engineering** |
-| 📅 2024 - 2028 (Expected) |
+# root@befikir:~$ whoami
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Befikir.;Software+Engineering+Student.;Full+Stack+Builder+%7C+Linux+Mindset+%7C+3D+Web+Enthusiast.;%3E+Access+Granted..." alt="Typing intro" />
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-0f0f0f?style=for-the-badge&logo=linux&logoColor=00FF9C&labelColor=000000" alt="System online" />
+  <img src="https://img.shields.io/badge/MODE-MR.ROBOT-0f0f0f?style=for-the-badge&logo=gnometerminal&logoColor=00FF9C&labelColor=000000" alt="MR ROBOT mode" />
+  <img src="https://komarev.com/ghpvc/?username=squidward404&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 ---
 
-## 📫 **Connect With Me**
+## > boot_sequence.log
 
-<div align="center">
- 
-  <a href="https://t.me/A_t_o_m_ic" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<table>
+  <tr>
+    <td width="56%" valign="top">
+      <pre><code>$ sudo nmap -sV creativity
+
+PORT     STATE SERVICE   VERSION
+22/tcp   open  ssh       discipline
+80/tcp   open  http      full-stack-engineering
+443/tcp  open  https     secure-by-default
+3000/tcp open  devserver shipping-side-projects
+
+OS: Linux-first mindset
+Status: Building useful things at weird hours.</code></pre>
+    </td>
+    <td width="44%" align="center" valign="top">
+      <img src="assets/sticker.gif" width="360" alt="Terminal glitch sticker" />
+      <br /><br />
+      <img src="assets/pic.png" width="360" alt="Mr Robot text" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## > stack.tree
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,firebase,linux,bash,cpp,git,threejs,mongodb" alt="Tech stack" />
+</p>
+
+---
+
+## > telemetry.dashboard
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=squidward404&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=squidward404&theme=github_dark" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=squidward404&theme=highcontrast&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&background=000000" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=squidward404&bg_color=000000&color=00ff9c&line=00ff9c&point=f8f8f8&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+## > projects.index
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Archive</h3>
+      <p>Community-powered library of books and past exams.</p>
+      <a href="https://aastu-archive.web.app">
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0a0a0a" alt="Archive" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>AASTU-SOCIAL</h3>
+      <p>Campus social platform focused on connection and speed.</p>
+      <a href="https://aastu-social.web.app">
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0a0a0a" alt="AASTU social" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>WIFI-Crasher</h3>
+      <p>Ethical WiFi security testing toolkit in Python.</p>
+      <a href="https://github.com/squidward404/wifi-crasher">
+        <img src="https://img.shields.io/badge/OPEN_REPO-00ff9c?style=for-the-badge&logo=github&logoColor=000000&labelColor=0a0a0a" alt="WiFi Crasher" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>3D Portfolio</h3>
+      <p>Immersive web portfolio powered by Three.js and motion.</p>
+      <a href="https://squidwardcodes.tech/">
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0a0a0a" alt="3D portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## > spotify.now_playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31hgawktqptlttvxyb2ke3yzyz4e">
+    <img src="https://busybox.colabois.fr/myplaying/playing/img?hideGithubLogo" alt="Spotify now playing" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="SPOTIFY_PERSONAL_SETUP.md">
+    <img src="https://img.shields.io/badge/Own%20Live%20Spotify%20Widget-Setup%20Guide-1DB954?style=for-the-badge&logo=spotify&logoColor=000000&labelColor=0a0a0a" alt="Spotify setup guide" />
+  </a>
+</p>
+
+---
+
+## > connect --secure
+
+<p align="center">
+  <a href="https://t.me/A_t_o_m_ic">
+    <img src="https://img.shields.io/badge/Telegram-00ff9c?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=0a0a0a" alt="Telegram" />
   </a>
   <a href="mailto:befikirshimelis20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-00ff9c?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0a0a0a" alt="Gmail" />
   </a>
-</div>
+</p>
 
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7317cf&height=100&section=footer" />
-  <p><b>Thanks for visiting! 😊</b></p>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer&text=fsociety%20x%20dev&fontColor=00ff9c&fontSize=24&animation=fadeIn" alt="Footer" />
+</p>
 

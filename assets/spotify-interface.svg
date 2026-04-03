@@ -1,0 +1,52 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="900" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a1018"/>
+      <stop offset="0.55" stop-color="#101010"/>
+      <stop offset="1" stop-color="#07110c"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1db954" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#1db954" stop-opacity="0.28"/>
+      <stop offset="0.78" stop-color="#1db954" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#1db954" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cover" x1="30" y1="30" x2="350" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f1f16"/>
+      <stop offset="0.45" stop-color="#1f0f17"/>
+      <stop offset="1" stop-color="#0f1114"/>
+    </linearGradient>
+    <radialGradient id="coverPulse" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190 152) rotate(52) scale(165 135)">
+      <stop stop-color="#39f29f" stop-opacity="0.34"/>
+      <stop offset="0.48" stop-color="#f33a88" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#5f7cff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="258" rx="28" fill="#05070a"/>
+  <rect x="2" y="2" width="896" height="256" rx="27" fill="url(#panel)" stroke="#1d2730" stroke-width="2"/>
+  <rect x="2" y="2" width="896" height="256" rx="27" fill="url(#glow)"/>
+
+  <rect x="24" y="24" width="330" height="212" rx="14" fill="url(#cover)" stroke="#24323d"/>
+  <rect x="24" y="24" width="330" height="212" rx="14" fill="url(#coverPulse)"/>
+  <path d="M56 196 C108 126, 182 232, 236 158 C262 122, 310 154, 332 114" stroke="#e06b9f" stroke-opacity="0.24" stroke-width="18" stroke-linecap="round"/>
+  <path d="M42 142 C112 174, 206 96, 342 76" stroke="#7df3b5" stroke-opacity="0.24" stroke-width="14" stroke-linecap="round"/>
+
+  <g>
+    <rect x="378" y="34" width="10" height="26" rx="2" fill="#1db954"/>
+    <rect x="392" y="42" width="10" height="18" rx="2" fill="#1db954"/>
+    <rect x="406" y="27" width="10" height="33" rx="2" fill="#1db954"/>
+  </g>
+  <text x="430" y="53" fill="#b1b7bd" font-size="36" font-family="Arial, sans-serif">Now playing on Spotify</text>
+
+  <g transform="translate(830 32)">
+    <circle cx="20" cy="20" r="20" fill="#1db954"/>
+    <path d="M10 16 C19 11, 28 12, 33 15" stroke="#0a0f0b" stroke-width="2.7" stroke-linecap="round" fill="none"/>
+    <path d="M12 21 C20 17, 26 18, 31 21" stroke="#0a0f0b" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <path d="M14 26 C20 23, 24 24, 29 27" stroke="#0a0f0b" stroke-width="2.3" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <text x="378" y="145" fill="#f4f6f8" font-size="62" font-weight="700" font-family="Arial, sans-serif">Fur Elise</text>
+  <text x="378" y="202" fill="#f4f6f8" font-size="62" font-weight="700" font-family="Arial, sans-serif">Classical Theme</text>
+  <text x="378" y="235" fill="#c6ccd2" font-size="40" font-family="Arial, sans-serif">Ludwig van Beethoven</text>
+</svg>
