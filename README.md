@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td width="56%" valign="top">
+    <td width="60%" valign="top">
       <pre><code>$ sudo nmap -sV creativity
 
 PORT     STATE SERVICE   VERSION
@@ -28,12 +28,23 @@ PORT     STATE SERVICE   VERSION
 3000/tcp open  devserver shipping-side-projects
 
 OS: Linux-first mindset
-Status: Building useful things at weird hours.</code></pre>
+Status: Building useful things at weird hours.
+
+[sys] loading dotfiles...
+[sys] mounting /dev/creativity
+[ok ] ssh tunnel stable
+[ok ] stack compiler warmed
+[ok ] deploy agent armed
+[log] focus mode: deep work
+[log] soundtrack: Fur Elise
+[end] boot sequence complete.</code></pre>
     </td>
-    <td width="44%" align="center" valign="top">
-      <img src="assets/sticker.gif" width="360" alt="Terminal glitch sticker" />
-      <br /><br />
-      <img src="assets/picture.png" width="360" alt="Mr Robot text" />
+    <td width="40%" align="center" valign="top">
+      <p align="center">
+        <img src="assets/sticker.gif" width="300" alt="Terminal glitch sticker" />
+        <br /><br />
+        <img src="assets/picture.png" width="340" alt="Mr Robot text" />
+      </p>
     </td>
   </tr>
 </table>
