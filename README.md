@@ -109,7 +109,7 @@ Status: Building useful things at weird hours.
 ## > contribution.snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/squidward404/squidward404/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" style="max-width:100%;height:auto;" />
+  <img src="https://raw.githubusercontent.com/squidward404/squidward404/output/github-snake-dark.svg" alt="Contribution snake animation" style="max-width:100%;height:auto;" />
 </p>
 
 ---
