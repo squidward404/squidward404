@@ -89,10 +89,10 @@ Status: Building useful things at weird hours.
       </a>
     </td>
     <td width="50%">
-      <h3>AASTU-SOCIAL</h3>
-      <p>Campus social platform focused on connection and speed.</p>
-      <a href="https://aastu-social.web.app">
-        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="AASTU social" />
+      <h3>Campus-Cash-Map</h3>
+      <p>Login-free PWA for students to plan monthly budgets &track expenses.</p>
+      <a href="https://campuscashmap.web.app/">
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="Campus Cash Map" />
       </a>
     </td>
   </tr>
