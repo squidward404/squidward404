@@ -18,8 +18,8 @@
 
 <table style="width:100%;table-layout:fixed;">
   <tr>
-    <td width="62%" valign="top" style="padding:0 10px 0 0;">
-      <pre style="margin:0;width:100%;box-sizing:border-box;white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere;"><code>$ sudo nmap -sV creativity
+    <td width="58%" valign="top" style="padding:0 8px 0 0;">
+      <pre style="margin:0;width:100%;box-sizing:border-box;white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere;overflow-x:hidden;"><code style="display:block;white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere;">$ sudo nmap -sV creativity
 
 PORT     STATE SERVICE   VERSION
 22/tcp   open  ssh       discipline
@@ -39,9 +39,9 @@ Status: Building useful things at weird hours.
 [log] soundtrack: Fur Elise
 [end] boot sequence complete.</code></pre>
     </td>
-    <td width="38%" align="center" valign="top" style="padding:0;min-width:220px;">
-      <img src="assets/sticker.gif" alt="Terminal glitch sticker" style="display:block;width:100%;min-width:180px;max-width:250px;height:auto;margin:0 auto 14px;" />
-      <img src="assets/picture.png" alt="Mr Robot text" style="display:block;width:100%;min-width:180px;max-width:290px;height:auto;margin:0 auto;" />
+    <td width="42%" align="center" valign="top" style="padding:0;">
+      <img src="assets/sticker.gif" alt="Terminal glitch sticker" style="display:block;width:96%;max-width:250px;height:auto;margin:0 auto 14px;" />
+      <img src="assets/picture.png" alt="Mr Robot text" style="display:block;width:96%;max-width:290px;height:auto;margin:0 auto;" />
     </td>
   </tr>
 </table>
