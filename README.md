@@ -120,17 +120,6 @@ Status: Building useful things at weird hours.
 
 ---
 
-## > connect --secure
-
-<p align="center" style="margin-bottom: -15px;">
-  <a href="https://t.me/A_t_o_m_ic" style="display:inline-block; margin:0 15px;">
-    <img src="https://cdn.simpleicons.org/telegram/00ff9c" alt="Telegram" width="40" height="40" />
-  </a>
-  <a href="mailto:befikirshimelis20@gmail.com" style="display:inline-block; margin:0 15px;">
-    <img src="https://cdn.simpleicons.org/gmail/00ff9c" alt="Gmail" width="40" height="40" />
-  </a>
-</p>
-
 <p align="center" style="margin-top: -15px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer&text=fsociety%20x%20dev&fontColor=00ff9c&fontSize=24&animation=fadeIn" alt="Footer" style="max-width:100%;height:auto;" />
 </p>
