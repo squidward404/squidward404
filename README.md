@@ -18,8 +18,8 @@
 
 <table style="width:100%;table-layout:fixed;">
   <tr>
-    <td width="60%" valign="top" style="padding:0;">
-      <pre style="margin:0;width:100%;height:100%;min-height:680px;box-sizing:border-box;white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere;"><code>$ sudo nmap -sV creativity
+    <td width="65%" valign="top" style="padding:10px 10px 10px 0;">
+      <pre style="margin:0;width:100%;box-sizing:border-box;white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere;"><code>$ sudo nmap -sV creativity
 
 PORT     STATE SERVICE   VERSION
 22/tcp   open  ssh       discipline
@@ -39,14 +39,18 @@ Status: Building useful things at weird hours.
 [log] soundtrack: Fur Elise
 [end] boot sequence complete.</code></pre>
     </td>
-    <td width="40%" align="center" valign="top" style="padding:0;">
-      <div style="height:680px;display:flex;flex-direction:column;justify-content:space-between;align-items:center;">
-        <img src="assets/sticker.gif" alt="Terminal glitch sticker" style="width:88%;max-width:250px;height:auto;" />
-        <img src="assets/picture.png" alt="Mr Robot text" style="width:88%;max-width:290px;height:auto;" />
+    <td width="35%" align="center" valign="middle" style="padding:10px 0;">
+      <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;gap:30px;">
+        <img src="assets/sticker.gif" alt="Terminal glitch sticker" style="width:90%;max-width:200px;height:auto;" />
+        <img src="assets/picture.png" alt="Mr Robot text" style="width:90%;max-width:240px;height:auto;" />
       </div>
     </td>
   </tr>
 </table>
+
+<p align="center" style="margin-top:-30px;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?user=squidward404" alt="Contribution snake animation" style="max-width:100%;height:auto;" />
+</p>
 
 ---
 
@@ -113,14 +117,6 @@ Status: Building useful things at weird hours.
     </td>
   </tr>
 </table>
-
----
-
-## > contribution.snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?user=squidward404" alt="Contribution snake animation" style="max-width:100%;height:auto;" />
-</p>
 
 ---
 
