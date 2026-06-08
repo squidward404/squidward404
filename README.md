@@ -89,14 +89,14 @@ Status: Building useful things at weird hours.
       <h3>Archive</h3>
       <p>Community-powered library of books and past exams.</p>
       <a href="https://aastu-archive.web.app">
-        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="Archive" />
+        <img src="https://img.shields.io/badge/LAUNCH_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="Archive" />
       </a>
     </td>
     <td width="50%">
       <h3>Campus-Cash-Map</h3>
       <p>Login-free PWA for students to plan monthly budgets &track expenses.</p>
       <a href="https://campuscashmap.web.app/">
-        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="Campus Cash Map" />
+        <img src="https://img.shields.io/badge/LAUNCH_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="Campus Cash Map" />
       </a>
     </td>
   </tr>
@@ -105,14 +105,14 @@ Status: Building useful things at weird hours.
       <h3>WIFI-Crasher</h3>
       <p>Ethical WiFi security testing toolkit in Python.</p>
       <a href="https://github.com/squidward404/wifi-crasher">
-        <img src="https://img.shields.io/badge/OPEN_REPO-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0a0a0a" alt="WiFi Crasher" />
+        <img src="https://img.shields.io/badge/OPEN_REPO-00ff9c?style=for-the-badge&logo=kalilinux&logoColor=00ff9c&labelColor=0a0a0a" alt="WiFi Crasher" />
       </a>
     </td>
     <td width="50%">
       <h3>3D Portfolio</h3>
       <p>Immersive web portfolio powered by Three.js and motion.</p>
       <a href="https://squidwardcodes.tech/">
-        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=00ff9c&labelColor=0a0a0a" alt="3D portfolio" />
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00ff9c?style=for-the-badge&logo=threedotjs&logoColor=00ff9c&labelColor=0a0a0a" alt="3D portfolio" />
       </a>
     </td>
   </tr>
@@ -122,16 +122,16 @@ Status: Building useful things at weird hours.
 
 ## > connect --secure
 
-<p align="center">
-  <a href="https://t.me/A_t_o_m_ic">
-    <img src="https://img.shields.io/badge/Telegram-00ff9c?style=for-the-badge&logo=telegram&logoColor=00ff9c&labelColor=0a0a0a" alt="Telegram" />
+<p align="center" style="margin-bottom: -15px;">
+  <a href="https://t.me/A_t_o_m_ic" style="display:inline-block; margin:0 15px;">
+    <img src="https://cdn.simpleicons.org/telegram/00ff9c" alt="Telegram" width="40" height="40" />
   </a>
-  <a href="mailto:befikirshimelis20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00ff9c?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0a0a0a" alt="Gmail" />
+  <a href="mailto:befikirshimelis20@gmail.com" style="display:inline-block; margin:0 15px;">
+    <img src="https://cdn.simpleicons.org/gmail/00ff9c" alt="Gmail" width="40" height="40" />
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: -15px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer&text=fsociety%20x%20dev&fontColor=00ff9c&fontSize=24&animation=fadeIn" alt="Footer" style="max-width:100%;height:auto;" />
 </p>
 
