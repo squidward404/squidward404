@@ -41,7 +41,7 @@ Status: Building useful things at weird hours.
     </td>
     <td width="35%" align="center" valign="middle" style="padding:10px 0;">
       <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;gap:30px;">
-        <img src="assets/sticker.gif" alt="Terminal glitch sticker" style="width:90%;max-width:200px;height:auto;" />
+        <img src="assets/sticker.gif" alt="Terminal glitch sticker" style="width:100%;max-width:100%;height:auto;display:block;" />
         <img src="assets/picture.png" alt="Mr Robot text" style="width:90%;max-width:240px;height:auto;" />
       </div>
     </td>
